@@ -18,7 +18,7 @@ This project demonstrates an end-to-end pipeline similar to the analytical proce
 ## 📂 System Architecture & Key Components
 
 ### 📥 Data Layer
-* Source: AEMO DISPATCHREGIONSUM (5-minute interval operational demand)
+* Source: AEMO DISPATCHREGIONSUM , ' NEMOSIS ' python Library (5-minute interval operational demand)
 * Storage: **MongoDB** (scalable, query-efficient document store)
 * Retrieval: Python-based ETL → Cleaned + structured daily demand dataset
 
