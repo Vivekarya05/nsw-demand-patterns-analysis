@@ -1,3 +1,12 @@
+
+
+<img width="1920" height="1080" alt="AM" src="https://github.com/user-attachments/assets/94a4bc00-1e0f-4743-aa0f-5b95793db474" />
+
+
+
+
+
+
 # 🔌 NSW Electricity Demand Forecasting (2024)
 
 A fully engineered forecasting workflow built using AEMO NEM operational data, Python, MongoDB, and applied time-series & machine-learning techniques.
@@ -69,7 +78,8 @@ The project follows a standard, robust **Extract-Load-Transform (ELT)** and **Ma
 * ### Step 4: Final Forecasting & Output
     * The tuned **XGBoost** model is used to generate a **30-day forward forecast** for January 2025.
     * The final forecast output (times, predicted demand values) is stored and visualised for operational stakeholders.
- <img width="773" height="564" alt="_- visual selection (11)" src="https://github.com/user-attachments/assets/dddd2ef4-5eca-4650-a59c-1ebcd6808d10" />
+    * 
+ <img width="1104" height="708" alt="_- visual selection (11)" src="https://github.com/user-attachments/assets/dddd2ef4-5eca-4650-a59c-1ebcd6808d10" />
 
 ##  🤖 Machine Learning Forecasting Pipeline
 <img width="1104" height="708" alt="_- visual selection (12)" src="https://github.com/user-attachments/assets/297adcbb-2f33-4c33-878b-29f7796b4955" />
