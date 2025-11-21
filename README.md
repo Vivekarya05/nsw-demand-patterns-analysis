@@ -84,4 +84,17 @@ The project follows a standard, robust **Extract-Load-Transform (ELT)** and **Ma
 ##  🤖 Machine Learning Forecasting Pipeline
 <img width="1104" height="708" alt="_- visual selection (12)" src="https://github.com/user-attachments/assets/297adcbb-2f33-4c33-878b-29f7796b4955" />
 
+
+
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Vivekarya05&color=blue)
+
+
   
